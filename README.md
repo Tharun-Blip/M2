@@ -67,7 +67,7 @@ Write a C program to print the given triangular pattern using loop.
 5.	Continue the loop until you have printed the entire triangular pattern.
 
 ## PROGRAM:
-'''
+```
 #include <stdio.h>
 
 int main() {
@@ -81,8 +81,7 @@ int main() {
     }
     return 0;
 }
-'''
-
+```
 
 ## OUTPUT:
 ```
